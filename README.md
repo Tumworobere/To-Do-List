@@ -5,6 +5,9 @@
 > This project was built for Microverse [under these guidance objectives](https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/m1_list_structure.md)
 > _note: you can only access this link if you're a Micronault (Microverse Student)_
 
+## Live Demo
+ [Live Preview of my project](https://tumworobere.github.io/To-Do-List/)
+
 ## Built With 🔨
 
 - HTML
