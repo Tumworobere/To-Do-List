@@ -1,3 +1,5 @@
+import StorageMock from './storage.js';
+
 const clearAll =() => {
   document.body.innerHTML = `
   <div class='card'>

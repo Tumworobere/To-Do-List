@@ -1,3 +1,5 @@
+import StorageMock from './storage.js';
+
 const indexUpdate =(list) => {
   document.body.innerHTML = `
     <div class='card'>
