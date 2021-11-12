@@ -1,4 +1,4 @@
-const indexUpdate = (list) => {
+const indexUpdate =(list) => {
   document.body.innerHTML = `
     <div class='card'>
       <div class='input-group'>

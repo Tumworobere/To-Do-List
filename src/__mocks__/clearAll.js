@@ -1,4 +1,4 @@
-const clearAll = () => {
+const clearAll =() => {
   document.body.innerHTML = `
   <div class='card'>
   <div class='input-group'>

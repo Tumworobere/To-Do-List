@@ -1,4 +1,4 @@
-const add = () => {
+const add =() => {
   document.body.innerHTML = `
 <div class='card'>
   <div class='input-group'>

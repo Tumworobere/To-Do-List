@@ -1,4 +1,4 @@
-const removeItem = () => {
+const removeItem =() => {
   document.body.innerHTML = `
   <div class='card'>
     <div class='input-group'>

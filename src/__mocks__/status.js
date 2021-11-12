@@ -1,4 +1,4 @@
-const status = (task, list) => {
+const status =(task, list) => {
   document.body.innerHTML = `
   <div class='card'>
     <div class='input-group'>
