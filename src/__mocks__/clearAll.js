@@ -1,7 +1,7 @@
 const clearAll = () => {
   document.body.innerHTML = `
-  <div class= 'card'>
-  <div class= 'input-group'>
+  <div class='card'>
+  <div class='input-group'>
       <input id='input' type='text' class='form-control' placeholder='Enter task...'>
       <button id='addBtn' class='btn btn-outline-secondary' type='button'></button>
   </div>
