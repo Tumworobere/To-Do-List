@@ -1,7 +1,7 @@
 import StorageMock from '../__mocks__/storage.js';
 
-describe('Test Storage',() => {
-  const storage = new StorageMock();
+describe('Test Storage', () => {
+  const storage = new StorageMock ();
   storage.setItem('list', []);
   const data = [];
 
@@ -12,7 +12,7 @@ describe('Test Storage',() => {
     expect(storage.getItem('list').length).toBe(1);
   });
 
-  test('Add second item into storage',() => {
+  test('Add second item into storage', () => {
     const task2 = { completed: false, description: 'Go for Jogging', index: 2 };
     data.push(task2);
     storage.setItem('list', data);

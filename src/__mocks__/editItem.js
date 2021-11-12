@@ -1,5 +1,5 @@
 import StorageMock from './storage.js';
-const editItem =(list, task, textHolder) => {
+const editItem =(list, task, textHolder) =>{
   document.body.innerHTML = `
   <div class='card'>
     <div class='input-group'>
